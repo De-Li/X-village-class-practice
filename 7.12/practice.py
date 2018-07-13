@@ -1,0 +1,2 @@
+import say
+dir(say)
